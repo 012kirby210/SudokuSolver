@@ -1,8 +1,9 @@
 # SudokuSolver
 Sudoku solver
 
-NFP 136 
-En substance : 
+## NFP 136 
+
+### En substance : 
 Une grille est initialisée avec l'ensemble de ses valeurs potentielles.
 Celles-ci sont représentées par l'indice d'un bit mis à 1 dans un chiffre dont le code est représenté sur au moins 10 bits.
 (Ceci pour rester dans un type primitif et donc être passer par copie et pas par référence)
@@ -39,3 +40,4 @@ Les grilles à solutions multiples sont anticipables avec des oracles. Je n'ai p
 
 Amusez-vous bien
 
+Luc
