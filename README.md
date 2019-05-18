@@ -27,7 +27,7 @@ Résoudre : (est une réccurence)
 déterminer la case où commencer, s'il n'existe pas de cas : arret de la réccurence
 déterminer par une heuristique simple par quelle valeur possible commencer
 Définir la case précédemment choisie à la valeur précédemment choisie.
-Propager la contrainte sur la valeur de la clef aux 3 ensembles affiliés à cette case :
+Propager la contrainte sur la valeur de la case aux 3 ensembles affiliés à cette case :
  - la ligne qui la contient (1)
  - la colonne qui la contient (2)
  - le carré qui la contient (3)
