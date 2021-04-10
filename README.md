@@ -44,3 +44,8 @@ Les grilles à solutions multiples sont anticipables avec des oracles. Je n'ai p
 Amusez-vous bien
 
 Luc
+
+# Version avec un langage de programmation sous contraintes
+:sparkling_heart: Le niveau d'expressivité du langage prolog pour ce genre de problème est des plus attractif.  
+
+C'est à creuser.
